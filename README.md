@@ -1,2 +1,3 @@
 # Addition
-Swift Package Manager testing repo
+
+A description of this package.
